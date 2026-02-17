@@ -1,51 +1,56 @@
-# Codveda Technologies Internship – Level 1 Task 2: Interactive Form with Validation
+# Codveda Technologies Internship – Level 1: Responsive Landing Page and Interactive Form
 
-This project is part of the Codveda Technologies Web Development Internship.
+This project was completed as part of the Codveda Technologies Web Development Internship Level 1.
 
-The goal of this task was to build a fully functional interactive form using HTML, CSS, and JavaScript, including proper validation and user feedback.
+Level 1 consists of two tasks:
 
----
-
-## Project Overview
-
-This interactive form collects user information and validates inputs before submission.
-
-It ensures that:
-
-- All required fields are filled
-- Email format is correct
-- Password meets requirements
-- Errors are displayed clearly
-- Success message is shown when valid
+- Task 1: Responsive Landing Page
+- Task 2: Interactive Form with Validation
 
 ---
 
-## Technologies Used
+# Task 1: Responsive Landing Page
 
-- HTML5
-- CSS3
-- JavaScript
+## Overview
 
----
+The objective of this task was to design and develop a fully responsive landing page using HTML, CSS, and JavaScript.
 
-## Features
+The landing page includes:
 
-- Responsive design
-- Clean user interface
-- Real-time validation
-- Error messages
-- Success message
+- Navigation bar
+- Hero section
+- Content sections
 - Professional layout
+- Responsive design for all screen sizes
 
 ---
 
-## Screenshots
+## Task 1 Screenshot
 
 ### Full Landing Page
 
 ![Landing Page](screenshots/landing-page.png)
 
 ---
+
+# Task 2: Interactive Form with Validation
+
+## 📋 Overview
+
+The objective of this task was to create an interactive form with proper validation using JavaScript.
+
+The form includes:
+
+- Name field
+- Email field
+- Password field
+- Submit button
+- Error handling
+- Success message
+
+---
+
+## Task 2 Screenshots
 
 ### Empty Form
 
@@ -59,16 +64,25 @@ It ensures that:
 
 ---
 
-### Successful Form Submission
+### Successful Submission
 
 ![Form Success](screenshots/form-success.png)
 
 ---
 
-## Project Structure
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- VS Code
+
+---
+
+# Project Structure
 
 ```
-codveda-level1-interactive-form
+codveda-level1-responsive-landing-page-and-form
 │
 ├── index.html
 ├── style.css
@@ -85,38 +99,39 @@ codveda-level1-interactive-form
 
 ---
 
-## Learning Outcomes
+# Skills Gained
 
-Through this task, I learned:
+Through this project, I developed and improved my skills in:
 
-- Form creation using HTML
-- Styling forms professionally using CSS
-- JavaScript form validation
-- DOM manipulation
-- Handling user input
-- Improving user experience
+- Responsive Web Design
+- HTML Structure
+- CSS Styling and Layout
+- JavaScript DOM Manipulation
+- Form Validation
+- User Experience Design
 
 ---
 
-## Author
+# Author
 
 Lehlogonolo Moseke
 
-BSc IT (Computer Science and Informatics)
+BSc Information Technology (Computer Science and Informatics)
 
-Aspiring Frontend Developer
-
----
-
-## Internship Program
-
-Codveda Technologies Web Development Internship
-
-Level 1 – Task 2
+Aspiring Software Developer | Frontend Developer
 
 ---
 
-## Acknowledgements
+# Internship
 
-Special thanks to Codveda Technologies for providing this opportunity to enhance my web development skills.
+Codveda Technologies
 
+Web Development Internship
+
+Level 1 – Tasks 1 and 2
+
+---
+
+# Acknowledgement
+
+I would like to thank Codveda Technologies for providing this opportunity to enhance my frontend development skills.
