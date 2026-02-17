@@ -60,7 +60,7 @@ The form includes:
 
 ### Form Validation Errors
 
-![Form Error](screenshots/form-error.png)
+![Form Error](screenshots/form-errors.png)
 
 ---
 
